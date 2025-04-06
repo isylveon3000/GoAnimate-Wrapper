@@ -1,7 +1,7 @@
 {
-	"name": "grounded",
-	"version": "1.2.7",
-	"versionStr": "1.2.7⅘",
+	"name": "Go!Animate Online",
+	"version": "1.0.0",
+	"versionStr": "1.0.0",
 	"scripts": {
 		"start": "node main.js"
 	},
